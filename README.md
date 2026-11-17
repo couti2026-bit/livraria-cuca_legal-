@@ -74,3 +74,6 @@ Exercicio4/
 ## Observação
 
 Este é um protótipo acadêmico. O formulário de contato não envia mensagem para um servidor; apenas confirma o envio na própria página. O botão **Adicionar** da vitrine simula um carrinho.
+
+## Link do Site
+(https://couti2026-bit.github.io/livraria-cuca_legal-/)
